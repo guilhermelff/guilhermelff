@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on personal projects, such as a sports betting web app and a mobile chat app
-- 🌱 I’m currently coding projects with Java, Python and C#
+- 🌱 I’m currently coding projects in Java, Python and C#
 
 - 📫 How to reach me: contatoguilhermelff@gmail.com , whatsapp +5521981123297
 
